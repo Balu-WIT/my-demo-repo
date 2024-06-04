@@ -1,3 +1,7 @@
-public class Abc
+class Abc
 {
+    public static void main(String[] args)
+    {
+        System.out.println("Abc feature implementation");
+    }
 }
